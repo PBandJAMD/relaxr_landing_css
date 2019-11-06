@@ -20,6 +20,6 @@ Relax!
 You need to take these files and turn it into a landing page that approximates 
 the following mockup:
 
-![Relaxr Landing Page](relaxr/relaxr_landing.jpg)
+![Relaxr Landing Page](./relaxr_landing.jpg)
 
-If you're not sure of something, check the [design specs](relaxr/design_file.md)
+If you're not sure of something, check the [design specs](./design_file.md)
