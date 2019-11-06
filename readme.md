@@ -7,7 +7,7 @@ new landing page for their company. They've handed you a [mockup](./relaxr_landi
 
 ## Setup
 
-Files have been provided for you! Work in your `index.html` and `style.css`.
+Files have been provided for you! Work in your `index.html` and create a `style.css` that lives next to `reset.css`.
 
 Image resources are available to you.
 
