@@ -3,7 +3,7 @@
 ![](https://media.giphy.com/media/7bdE7u45ZXkOY/giphy.gif)
 
 A hot, new NY Tech Startup, Relaxr, has approached you to help them develop a 
-new landing page for their company. They've handed you a [mockup](relaxr/relaxr_landing.jpg) for the site, along with the [copy](relaxr/design_file.md) and [assets](relaxr/images). 
+new landing page for their company. They've handed you a [mockup](./relaxr_landing.jpg) for the site, along with the [copy](./design_file.md) and [assets](./images). 
 
 ## Setup
 
@@ -13,7 +13,7 @@ Image resources are available to you.
 
 ## Completion
 
-Relax!
+Using just HTML and CSS, make your website look just like the mockup! I would also like you to make this a node app before you upload it to github and hand the assignment in (HINT: If you need a step-by-step on how to set this up, [click here!](https://github.com/BrianCarela/node-mustache-express-templating))
 
 ## Assignment
 
