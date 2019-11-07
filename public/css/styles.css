@@ -1,0 +1,137 @@
+body{
+ margin: 50px;
+ font-family: 'Open Sans', sans-serif;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: url(../images/header_bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 700px;
+  color: #ffffff;
+}
+
+.header > h1 {
+  font-size: 50px;
+  font-weight: 900;
+  position: absolute;
+  top: 90px;
+  left: 200px;
+}
+
+.header >  p {
+ font-size: 50px;
+ font-weight: 500;
+ margin-bottom: 90px;
+}
+
+.header > button {
+  background: #f9e42e;
+  color: #033048;
+  margin-bottom: 70px;
+  font-size: 25px;
+  font-weight: 700;
+  padding: 10px 45px;
+  border-radius: 5px;
+}
+
+.benefit {
+  display: flex;
+  flex-direction: column;
+  padding: 100px;
+  background:#f0efef;
+  color:  #606161;
+  height: 500px;
+}
+
+.benefit > h2 {
+  margin-bottom: 48px;
+  font-size: 50px;
+  color: #033048;
+}
+
+.benefit > p {
+  font-size: 20px;
+} 
+
+
+.benefit > ul  {
+   margin: 52px 0 0 113px;
+}
+
+.benefit > ul > li {
+  font-size: 20px;
+  line-height: 30px;
+  list-style-type: initial;
+}
+
+.testimonial {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  line-height: 50px;
+  background: url(../images/testimonial_bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 500px;
+  color: #f0efef;
+}
+
+.testimonial > p {
+ font-weight: 100;
+ font-size: 30px;
+}
+
+.testimonial > h3 {
+  margin-top: 10px;
+ font-size: 40px;
+}
+
+.signup {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: yellow;
+  height: 100px;
+}
+
+.signup > button { 
+  color: rgb(255, 255, 255);
+  background: #033048;
+  font-size: 20px;
+  font-weight: 700;
+  padding: 15px 65px;
+  border-radius: 5px;
+
+}
+
+.copyright {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  justify-content: space-around;
+  align-items: center;;
+  color: #ffffff;
+  background: #121212;
+  height: 350px;
+}
+
+.copyright > h1 {
+  font-size: 45px;
+  font-weight: 900;
+  color: #f9e42e;
+}
+
+.copyright > .myIcon > img {
+  padding: 0 35px;
+}
+
+.copyright > p {
+  font-weight: 100;
+  font-size: 15px;
+}

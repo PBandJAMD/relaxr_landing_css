@@ -1,0 +1,17 @@
+{
+  "name": "relaxr_landing_css",
+  "version": "1.0.0",
+  "description": "relaxr landing css",
+  "main": "server.js ",
+  "scripts": {
+    "start": "nodemon server.js --watch views/index.html public/css/styles.css"
+  },
+  "repository": "git@github.com:PBandJAMD/relaxr_landing_css.git",
+  "author": "mohamed gassama <bouyagassama@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.9.1",
+    "mustache-express": "^1.3.0"
+  }
+}
